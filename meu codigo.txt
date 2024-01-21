@@ -1,2 +1,2 @@
-Olá, meu nome é Jhone!
-Olá, eu sou uma nova linha!
+Olá, meu nome é Jhone
+Olá, eu sou uma nova linha
